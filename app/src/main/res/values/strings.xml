@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Twitter Client</string>
+        <string name="app_name">Twitter Client</string>
+        <string name="CONSUMER_KEY" translatable="false">6RUJo4R2mMPJikHJpfTe6ettt</string>
+        <string name="CONSUMER_SECRET" translatable="false">mKvtNI7OoIplAEeDVGkwcxgVcIJWU5AaNWYIEwWwasyqDLr38e</string>
 </resources>
